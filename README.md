@@ -8,6 +8,6 @@ CRUD operations in different lenguage with exmaple (todo app)
 
 ### Steps for app
 #### create a database (for exmaple test named database) 
-#### import migration.sql file in our repo
+#### import migration.sql file (given in the code) to database (test db in our case)
 #### put your this repo code in the htdocs folder in xampp (www in laragon)
 #### Your app is ready to use in the browser by navigating the folder
